@@ -79,6 +79,15 @@ namespace Administration.Resources {
         }
 
         /// <summary>
+        ///   Looks up a localized string similar to "Chassis Code"
+        /// </summary>
+        public static string CHASSIS_CODE51162 {
+            get {
+                return ResourceManager.GetString("CHASSIS_CODE51162", resourceCulture);
+            }
+        }
+
+        /// <summary>
         ///   Looks up a localized string similar to "Resultado"
         /// </summary>
         public static string RESULTADO50955 {
@@ -169,6 +178,15 @@ namespace Administration.Resources {
         }
 
         /// <summary>
+        ///   Looks up a localized string similar to "Tune Archive"
+        /// </summary>
+        public static string TUNE_ARCHIVE10662 {
+            get {
+                return ResourceManager.GetString("TUNE_ARCHIVE10662", resourceCulture);
+            }
+        }
+
+        /// <summary>
         ///   Looks up a localized string similar to "Level"
         /// </summary>
         public static string LEVEL06184 {
@@ -246,6 +264,15 @@ namespace Administration.Resources {
         public static string DATE18475 {
             get {
                 return ResourceManager.GetString("DATE18475", resourceCulture);
+            }
+        }
+
+        /// <summary>
+        ///   Looks up a localized string similar to "Price"
+        /// </summary>
+        public static string PRICE06900 {
+            get {
+                return ResourceManager.GetString("PRICE06900", resourceCulture);
             }
         }
 
@@ -340,6 +367,15 @@ namespace Administration.Resources {
         }
 
         /// <summary>
+        ///   Looks up a localized string similar to "Stage"
+        /// </summary>
+        public static string STAGE09691 {
+            get {
+                return ResourceManager.GetString("STAGE09691", resourceCulture);
+            }
+        }
+
+        /// <summary>
         ///   Looks up a localized string similar to "Obs"
         /// </summary>
         public static string OBS42026 {
@@ -358,11 +394,38 @@ namespace Administration.Resources {
         }
 
         /// <summary>
+        ///   Looks up a localized string similar to "Models"
+        /// </summary>
+        public static string MODELS03686 {
+            get {
+                return ResourceManager.GetString("MODELS03686", resourceCulture);
+            }
+        }
+
+        /// <summary>
         ///   Looks up a localized string similar to "Notification Message"
         /// </summary>
         public static string NOTIFICATION_MESSAGE31108 {
             get {
                 return ResourceManager.GetString("NOTIFICATION_MESSAGE31108", resourceCulture);
+            }
+        }
+
+        /// <summary>
+        ///   Looks up a localized string similar to "Click here to buy product"
+        /// </summary>
+        public static string CLICK_HERE_TO_BUY_PR34749 {
+            get {
+                return ResourceManager.GetString("CLICK_HERE_TO_BUY_PR34749", resourceCulture);
+            }
+        }
+
+        /// <summary>
+        ///   Looks up a localized string similar to "Makes"
+        /// </summary>
+        public static string MAKES33555 {
+            get {
+                return ResourceManager.GetString("MAKES33555", resourceCulture);
             }
         }
 
@@ -381,6 +444,15 @@ namespace Administration.Resources {
         public static string NOTIFICATION_EMAIL_S37352 {
             get {
                 return ResourceManager.GetString("NOTIFICATION_EMAIL_S37352", resourceCulture);
+            }
+        }
+
+        /// <summary>
+        ///   Looks up a localized string similar to "Upgrade"
+        /// </summary>
+        public static string UPGRADE13909 {
+            get {
+                return ResourceManager.GetString("UPGRADE13909", resourceCulture);
             }
         }
 
@@ -412,11 +484,29 @@ namespace Administration.Resources {
         }
 
         /// <summary>
+        ///   Looks up a localized string similar to "Add new upgrade"
+        /// </summary>
+        public static string ADD_NEW_UPGRADE25959 {
+            get {
+                return ResourceManager.GetString("ADD_NEW_UPGRADE25959", resourceCulture);
+            }
+        }
+
+        /// <summary>
         ///   Looks up a localized string similar to "Cc"
         /// </summary>
         public static string CC35482 {
             get {
                 return ResourceManager.GetString("CC35482", resourceCulture);
+            }
+        }
+
+        /// <summary>
+        ///   Looks up a localized string similar to "Upgrades"
+        /// </summary>
+        public static string UPGRADES15663 {
+            get {
+                return ResourceManager.GetString("UPGRADES15663", resourceCulture);
             }
         }
 
@@ -444,6 +534,15 @@ namespace Administration.Resources {
         public static string TERMINADO46276 {
             get {
                 return ResourceManager.GetString("TERMINADO46276", resourceCulture);
+            }
+        }
+
+        /// <summary>
+        ///   Looks up a localized string similar to "Chassis Codes"
+        /// </summary>
+        public static string CHASSIS_CODES41761 {
+            get {
+                return ResourceManager.GetString("CHASSIS_CODES41761", resourceCulture);
             }
         }
 
@@ -543,6 +642,24 @@ namespace Administration.Resources {
         public static string ID36840 {
             get {
                 return ResourceManager.GetString("ID36840", resourceCulture);
+            }
+        }
+
+        /// <summary>
+        ///   Looks up a localized string similar to "Model"
+        /// </summary>
+        public static string MODEL27263 {
+            get {
+                return ResourceManager.GetString("MODEL27263", resourceCulture);
+            }
+        }
+
+        /// <summary>
+        ///   Looks up a localized string similar to "Year"
+        /// </summary>
+        public static string YEAR61794 {
+            get {
+                return ResourceManager.GetString("YEAR61794", resourceCulture);
             }
         }
 
@@ -853,6 +970,15 @@ namespace Administration.Resources {
         }
 
         /// <summary>
+        ///   Looks up a localized string similar to "Part Name"
+        /// </summary>
+        public static string PART_NAME55942 {
+            get {
+                return ResourceManager.GetString("PART_NAME55942", resourceCulture);
+            }
+        }
+
+        /// <summary>
         ///   Looks up a localized string similar to "User Authorization"
         /// </summary>
         public static string USER_AUTHORIZATION53599 {
@@ -907,6 +1033,15 @@ namespace Administration.Resources {
         }
 
         /// <summary>
+        ///   Looks up a localized string similar to "Add Makes"
+        /// </summary>
+        public static string ADD_MAKES49686 {
+            get {
+                return ResourceManager.GetString("ADD_MAKES49686", resourceCulture);
+            }
+        }
+
+        /// <summary>
         ///   Looks up a localized string similar to "Em fila de espera"
         /// </summary>
         public static string EM_FILA_DE_ESPERA21822 {
@@ -957,6 +1092,15 @@ namespace Administration.Resources {
         public static string GLOBAL58588 {
             get {
                 return ResourceManager.GetString("GLOBAL58588", resourceCulture);
+            }
+        }
+
+        /// <summary>
+        ///   Looks up a localized string similar to "Make"
+        /// </summary>
+        public static string MAKE42404 {
+            get {
+                return ResourceManager.GetString("MAKE42404", resourceCulture);
             }
         }
 

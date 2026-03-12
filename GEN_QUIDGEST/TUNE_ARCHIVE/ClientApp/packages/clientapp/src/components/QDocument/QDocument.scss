@@ -1,0 +1,18 @@
+.q-document {
+  &__attach {
+    display: none;
+  }
+
+  &__popup {
+    &-container {
+      border-top: 1px solid var(--q-theme-neutral-light);
+      border-bottom: 1px solid var(--q-theme-neutral-light);
+      padding-top: 0.5rem;
+      padding-bottom: 1rem;
+    }
+
+    .q-dialog__footer-buttons {
+      justify-content: start;
+    }
+  }
+}

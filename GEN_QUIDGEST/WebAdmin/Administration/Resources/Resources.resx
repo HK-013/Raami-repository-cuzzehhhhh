@@ -123,6 +123,9 @@
   <data name="HORARIO56549" xml:space="preserve">
     <value>Horário</value>
   </data>
+  <data name="CHASSIS_CODE51162" xml:space="preserve">
+    <value>Chassis Code</value>
+  </data>
   <data name="RESULTADO50955" xml:space="preserve">
     <value>Resultado</value>
   </data>
@@ -153,6 +156,9 @@
   <data name="ERRO38355" xml:space="preserve">
     <value>Erro</value>
   </data>
+  <data name="TUNE_ARCHIVE10662" xml:space="preserve">
+    <value>Tune Archive</value>
+  </data>
   <data name="LEVEL06184" xml:space="preserve">
     <value>Level</value>
   </data>
@@ -179,6 +185,9 @@
   </data>
   <data name="DATE18475" xml:space="preserve">
     <value>Date</value>
+  </data>
+  <data name="PRICE06900" xml:space="preserve">
+    <value>Price</value>
   </data>
   <data name="SALT05277" xml:space="preserve">
     <value>Salt</value>
@@ -210,20 +219,35 @@
   <data name="EMAIL25170" xml:space="preserve">
     <value>Email</value>
   </data>
+  <data name="STAGE09691" xml:space="preserve">
+    <value>Stage</value>
+  </data>
   <data name="OBS42026" xml:space="preserve">
     <value>Obs</value>
   </data>
   <data name="PROCESS_TYPES19050" xml:space="preserve">
     <value>Process Types</value>
   </data>
+  <data name="MODELS03686" xml:space="preserve">
+    <value>Models</value>
+  </data>
   <data name="NOTIFICATION_MESSAGE31108" xml:space="preserve">
     <value>Notification Message</value>
+  </data>
+  <data name="CLICK_HERE_TO_BUY_PR34749" xml:space="preserve">
+    <value>Click here to buy product</value>
+  </data>
+  <data name="MAKES33555" xml:space="preserve">
+    <value>Makes</value>
   </data>
   <data name="MODO_DE_PROCESSAMENT14469" xml:space="preserve">
     <value>Modo de processamento</value>
   </data>
   <data name="NOTIFICATION_EMAIL_S37352" xml:space="preserve">
     <value>Notification Email Signatures</value>
+  </data>
+  <data name="UPGRADE13909" xml:space="preserve">
+    <value>Upgrade</value>
   </data>
   <data name="NOTIFICATION_ID25507" xml:space="preserve">
     <value>Notification ID</value>
@@ -234,8 +258,14 @@
   <data name="QUIDGEST26196" xml:space="preserve">
     <value>Quidgest</value>
   </data>
+  <data name="ADD_NEW_UPGRADE25959" xml:space="preserve">
+    <value>Add new upgrade</value>
+  </data>
   <data name="CC35482" xml:space="preserve">
     <value>Cc</value>
+  </data>
+  <data name="UPGRADES15663" xml:space="preserve">
+    <value>Upgrades</value>
   </data>
   <data name="PHONE_NUMBER20774" xml:space="preserve">
     <value>Phone number</value>
@@ -245,6 +275,9 @@
   </data>
   <data name="TERMINADO46276" xml:space="preserve">
     <value>Terminado</value>
+  </data>
+  <data name="CHASSIS_CODES41761" xml:space="preserve">
+    <value>Chassis Codes</value>
   </data>
   <data name="ASYNC_PROCESS56674" xml:space="preserve">
     <value>Async process</value>
@@ -278,6 +311,12 @@
   </data>
   <data name="ID36840" xml:space="preserve">
     <value>Id</value>
+  </data>
+  <data name="MODEL27263" xml:space="preserve">
+    <value>Model</value>
+  </data>
+  <data name="YEAR61794" xml:space="preserve">
+    <value>Year</value>
   </data>
   <data name="INDIVIDUAL42893" xml:space="preserve">
     <value>Individual</value>
@@ -381,6 +420,9 @@
   <data name="MODULES33542" xml:space="preserve">
     <value>Modules</value>
   </data>
+  <data name="PART_NAME55942" xml:space="preserve">
+    <value>Part Name</value>
+  </data>
   <data name="USER_AUTHORIZATION53599" xml:space="preserve">
     <value>User Authorization</value>
   </data>
@@ -399,6 +441,9 @@
   <data name="PERCENTAGE57728" xml:space="preserve">
     <value>Percentage</value>
   </data>
+  <data name="ADD_MAKES49686" xml:space="preserve">
+    <value>Add Makes</value>
+  </data>
   <data name="EM_FILA_DE_ESPERA21822" xml:space="preserve">
     <value>Em fila de espera</value>
   </data>
@@ -416,6 +461,9 @@
   </data>
   <data name="GLOBAL58588" xml:space="preserve">
     <value>Global</value>
+  </data>
+  <data name="MAKE42404" xml:space="preserve">
+    <value>Make</value>
   </data>
   <data name="NOTIFICATION_MESSAGE60981" xml:space="preserve">
     <value>Notification Messages</value>
