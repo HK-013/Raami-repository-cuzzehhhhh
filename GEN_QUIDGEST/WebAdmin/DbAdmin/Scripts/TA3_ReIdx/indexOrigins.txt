@@ -1,0 +1,6 @@
+TA3PSW_04CA0CFABC7B4BC9
+    Tabela NotDup PSW
+    Tabela NotDup PSW
+TA3S_UA_6CFA2AC1B9194AA2
+    Tabela NotDup S_UA
+    Tabela NotDup S_UA
