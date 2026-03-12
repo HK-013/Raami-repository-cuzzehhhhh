@@ -276,6 +276,9 @@
 	<data name="TERMINADO46276" xml:space="preserve">
 		<value>Terminado</value>
 	</data>
+	<data name="CANCELAR49513" xml:space="preserve">
+		<value>Cancelar</value>
+	</data>
 	<data name="CHASSIS_CODES41761" xml:space="preserve">
 		<value>Chassis Codes</value>
 	</data>
@@ -323,6 +326,9 @@
 	</data>
 	<data name="TO55217" xml:space="preserve">
 		<value>To</value>
+	</data>
+	<data name="GRAVAR45301" xml:space="preserve">
+		<value>Gravar</value>
 	</data>
 	<data name="MESSAGE30602" xml:space="preserve">
 		<value>Message</value>
@@ -519,9 +525,6 @@
 	<data name="CAMPO_VAZIO_ALTERADO56548" xml:space="preserve">
 		<value>Empty/Changed Field</value>
 	</data>
-	<data name="CANCELAR49513" xml:space="preserve">
-		<value>Cancel</value>
-	</data>
 	<data name="CONSULTA23186" xml:space="preserve">
 		<value>Query</value>
 	</data>
@@ -563,9 +566,6 @@
 	</data>
 	<data name="FORM54242" xml:space="preserve">
 		<value>Form</value>
-	</data>
-	<data name="GRAVAR45301" xml:space="preserve">
-		<value>Save</value>
 	</data>
 	<data name="GRUPO22663" xml:space="preserve">
 		<value>Group</value>
@@ -5041,7 +5041,7 @@
 		<value>Select</value>
 	</data>
 	<data name="_CANCELAR09516" xml:space="preserve">
-		<value>Cancel</value>
+		<value>&amp;Cancelar</value>
 	</data>
 	<data name="_ALTERAR63438" xml:space="preserve">
 		<value>Change</value>
@@ -5245,7 +5245,7 @@
 		<value>&amp;Queue</value>
 	</data>
 	<data name="_GRAVAR27930" xml:space="preserve">
-		<value>Save</value>
+		<value>&amp;Gravar</value>
 	</data>
 	<data name="_TABELA23959" xml:space="preserve">
 		<value>Table</value>
@@ -5323,7 +5323,7 @@
 		<value>Sum</value>
 	</data>
 	<data name="GRA_VAR31620" xml:space="preserve">
-		<value>Save</value>
+		<value>Gra&amp;var</value>
 	</data>
 	<data name="UTILIZAD_OR_18947" xml:space="preserve">
 		<value>Username:</value>

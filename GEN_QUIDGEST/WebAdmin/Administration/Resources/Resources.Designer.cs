@@ -538,6 +538,15 @@ namespace Administration.Resources {
         }
 
         /// <summary>
+        ///   Looks up a localized string similar to "Cancelar"
+        /// </summary>
+        public static string CANCELAR49513 {
+            get {
+                return ResourceManager.GetString("CANCELAR49513", resourceCulture);
+            }
+        }
+
+        /// <summary>
         ///   Looks up a localized string similar to "Chassis Codes"
         /// </summary>
         public static string CHASSIS_CODES41761 {
@@ -678,6 +687,15 @@ namespace Administration.Resources {
         public static string TO55217 {
             get {
                 return ResourceManager.GetString("TO55217", resourceCulture);
+            }
+        }
+
+        /// <summary>
+        ///   Looks up a localized string similar to "Gravar"
+        /// </summary>
+        public static string GRAVAR45301 {
+            get {
+                return ResourceManager.GetString("GRAVAR45301", resourceCulture);
             }
         }
 
@@ -1267,15 +1285,6 @@ namespace Administration.Resources {
         }
 
         /// <summary>
-        ///   Looks up a localized string similar to "Cancelar"
-        /// </summary>
-        public static string CANCELAR49513 {
-            get {
-                return ResourceManager.GetString("CANCELAR49513", resourceCulture);
-            }
-        }
-
-        /// <summary>
         ///   Looks up a localized string similar to "consulta"
         /// </summary>
         public static string CONSULTA23186 {
@@ -1398,15 +1407,6 @@ namespace Administration.Resources {
         public static string FORM54242 {
             get {
                 return ResourceManager.GetString("FORM54242", resourceCulture);
-            }
-        }
-
-        /// <summary>
-        ///   Looks up a localized string similar to "Gravar"
-        /// </summary>
-        public static string GRAVAR45301 {
-            get {
-                return ResourceManager.GetString("GRAVAR45301", resourceCulture);
             }
         }
 

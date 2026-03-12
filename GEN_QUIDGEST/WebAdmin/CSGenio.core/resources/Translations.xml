@@ -159,6 +159,9 @@
   <msg id="Terminado" code="TERMINADO46276">
     <ENUS>Terminado</ENUS>
   </msg>
+  <msg id="Cancelar" code="CANCELAR49513">
+    <ENUS>Cancelar</ENUS>
+  </msg>
   <msg id="Chassis Codes" code="CHASSIS_CODES41761">
     <ENUS>Chassis Codes</ENUS>
   </msg>
@@ -206,6 +209,9 @@
   </msg>
   <msg id="To" code="TO55217">
     <ENUS>To</ENUS>
+  </msg>
+  <msg id="Gravar" code="GRAVAR45301">
+    <ENUS>Gravar</ENUS>
   </msg>
   <msg id="Message" code="MESSAGE30602">
     <ENUS>Message</ENUS>
@@ -402,9 +408,6 @@
   <msg id="Campo Vazio/Alterado" code="CAMPO_VAZIO_ALTERADO56548">
     <ENUS>Empty/Changed Field</ENUS>
   </msg>
-  <msg id="Cancelar" code="CANCELAR49513">
-    <ENUS>Cancel</ENUS>
-  </msg>
   <msg id="consulta" code="CONSULTA23186">
     <ENUS>Query</ENUS>
   </msg>
@@ -446,9 +449,6 @@
   </msg>
   <msg id="Form" code="FORM54242">
     <ENUS>Form</ENUS>
-  </msg>
-  <msg id="Gravar" code="GRAVAR45301">
-    <ENUS>Save</ENUS>
   </msg>
   <msg id="Grupo" code="GRUPO22663">
     <ENUS>Group</ENUS>
@@ -4924,7 +4924,7 @@
     <ENUS>Select</ENUS>
   </msg>
   <msg id="&amp;Cancelar" code="_CANCELAR09516">
-    <ENUS>Cancel</ENUS>
+    <ENUS>&amp;Cancelar</ENUS>
   </msg>
   <msg id="&amp;Alterar" code="_ALTERAR63438">
     <ENUS>Change</ENUS>
@@ -5128,7 +5128,7 @@
     <ENUS>&amp;Queue</ENUS>
   </msg>
   <msg id="&amp;Gravar" code="_GRAVAR27930">
-    <ENUS>Save</ENUS>
+    <ENUS>&amp;Gravar</ENUS>
   </msg>
   <msg id="&amp;Tabela" code="_TABELA23959">
     <ENUS>Table</ENUS>
@@ -5206,7 +5206,7 @@
     <ENUS>Sum</ENUS>
   </msg>
   <msg id="Gra&amp;var" code="GRA_VAR31620">
-    <ENUS>Save</ENUS>
+    <ENUS>Gra&amp;var</ENUS>
   </msg>
   <msg id="Utilizad&amp;or:" code="UTILIZAD_OR_18947">
     <ENUS>Username:</ENUS>
