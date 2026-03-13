@@ -33,9 +33,12 @@ namespace GenioMVC.Models
 		public string ValPart_name { get { return klass.ValPart_name; } set { klass.ValPart_name = value; } }
 
 		[DisplayName("Stage")]
-		/// <summary>Field : "Stage" Tipo: "C" Formula:  ""</summary>
+		/// <summary>Field : "Stage" Tipo: "AC" Formula:  ""</summary>
 		[ShouldSerialize("Upgrade.ValStage")]
+		[DataArray("Enum_stage", GenioMVC.Helpers.ArrayType.Character)]
 		public string ValStage { get { return klass.ValStage; } set { klass.ValStage = value; } }
+		[JsonIgnore]
+		public SelectList ArrayValstage { get { return new SelectList(CSGenio.business.ArrayEnum_stage.GetDictionary(), "Key", "Value", ValStage); } set { ValStage = value.SelectedValue as string; } }
 
 		[DisplayName("Price")]
 		/// <summary>Field : "Price" Tipo: "$D" Formula:  ""</summary>

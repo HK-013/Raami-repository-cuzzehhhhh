@@ -20,6 +20,13 @@ namespace CSGenio.business
 
             StringBuilder Qresult = new StringBuilder();
             
+			// enum_stage
+            Qresult = new StringBuilder();
+			            Qresult.AppendLine("if {{{0}}} = \"1\" then \"Stage 1\" else");
+			            Qresult.AppendLine("if {{{0}}} = \"2\" then \"Stage 2\" else");
+			            Qresult.AppendLine("if {{{0}}} = \"3\" then \"Stage 3\" else");
+            Qresult.Append("\"                                              \"");
+            todasArrays.Add("enum_stage", Qresult.ToString());
 			// s_modpro
             Qresult = new StringBuilder();
 			            Qresult.AppendLine("if {{{0}}} = \"INDIV\" then \"Individual\" else");

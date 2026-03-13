@@ -232,6 +232,15 @@ namespace Administration.Resources {
         }
 
         /// <summary>
+        ///   Looks up a localized string similar to "Stage 3"
+        /// </summary>
+        public static string STAGE_320799 {
+            get {
+                return ResourceManager.GetString("STAGE_320799", resourceCulture);
+            }
+        }
+
+        /// <summary>
         ///   Looks up a localized string similar to "Result"
         /// </summary>
         public static string RESULT40974 {
@@ -363,6 +372,15 @@ namespace Administration.Resources {
         public static string EMAIL25170 {
             get {
                 return ResourceManager.GetString("EMAIL25170", resourceCulture);
+            }
+        }
+
+        /// <summary>
+        ///   Looks up a localized string similar to "Stage 2"
+        /// </summary>
+        public static string STAGE_220652 {
+            get {
+                return ResourceManager.GetString("STAGE_220652", resourceCulture);
             }
         }
 
@@ -880,6 +898,15 @@ namespace Administration.Resources {
         }
 
         /// <summary>
+        ///   Looks up a localized string similar to "Stages"
+        /// </summary>
+        public static string STAGES13998 {
+            get {
+                return ResourceManager.GetString("STAGES13998", resourceCulture);
+            }
+        }
+
+        /// <summary>
         ///   Looks up a localized string similar to "Sender"
         /// </summary>
         public static string SENDER07671 {
@@ -952,6 +979,15 @@ namespace Administration.Resources {
         }
 
         /// <summary>
+        ///   Looks up a localized string similar to "Pricing Info"
+        /// </summary>
+        public static string PRICING_INFO42263 {
+            get {
+                return ResourceManager.GetString("PRICING_INFO42263", resourceCulture);
+            }
+        }
+
+        /// <summary>
         ///   Looks up a localized string similar to "Modos de processamento"
         /// </summary>
         public static string MODOS_DE_PROCESSAMEN07602 {
@@ -975,6 +1011,15 @@ namespace Administration.Resources {
         public static string BCC22049 {
             get {
                 return ResourceManager.GetString("BCC22049", resourceCulture);
+            }
+        }
+
+        /// <summary>
+        ///   Looks up a localized string similar to "Stage 1"
+        /// </summary>
+        public static string STAGE_120545 {
+            get {
+                return ResourceManager.GetString("STAGE_120545", resourceCulture);
             }
         }
 
@@ -1011,6 +1056,15 @@ namespace Administration.Resources {
         public static string ROLES61449 {
             get {
                 return ResourceManager.GetString("ROLES61449", resourceCulture);
+            }
+        }
+
+        /// <summary>
+        ///   Looks up a localized string similar to "PART NAME / STAGE"
+        /// </summary>
+        public static string PART_NAME___STAGE64570 {
+            get {
+                return ResourceManager.GetString("PART_NAME___STAGE64570", resourceCulture);
             }
         }
 
@@ -1155,6 +1209,15 @@ namespace Administration.Resources {
         public static string STATUS62033 {
             get {
                 return ResourceManager.GetString("STATUS62033", resourceCulture);
+            }
+        }
+
+        /// <summary>
+        ///   Looks up a localized string similar to "Click this link to buy the product"
+        /// </summary>
+        public static string CLICK_THIS_LINK_TO_B29613 {
+            get {
+                return ResourceManager.GetString("CLICK_THIS_LINK_TO_B29613", resourceCulture);
             }
         }
 

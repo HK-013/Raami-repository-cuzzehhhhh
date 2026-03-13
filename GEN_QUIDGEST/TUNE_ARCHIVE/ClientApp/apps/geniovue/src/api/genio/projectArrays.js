@@ -108,6 +108,42 @@ export class GroupOption {
 
 /* eslint-enable @typescript-eslint/no-unused-vars */
 /**
+ * The ENUM_STAGE array.
+ */
+export class QArrayEnum_stage
+{
+	// eslint-disable-next-line @typescript-eslint/no-unused-vars
+	constructor(fnResources)
+	{
+		this.type = 'C'
+		this.pluralName = 'STAGES13998'
+		this.singularName = 'STAGE09691'
+
+		this.elements = [
+			new Option({
+				num: 1,
+				key: '1',
+				resourceId: 'STAGE_120545',
+				fnResources,
+			}),
+			new Option({
+				num: 2,
+				key: '2',
+				resourceId: 'STAGE_220652',
+				fnResources,
+			}),
+			new Option({
+				num: 3,
+				key: '3',
+				resourceId: 'STAGE_320799',
+				fnResources,
+			}),
+		]
+
+	}
+}
+
+/**
  * The s_modpro array.
  */
 export class QArrayS_modpro
@@ -376,6 +412,7 @@ export class QArrayS_tpproc
 
 
 export default {
+	QArrayEnum_stage,
 	QArrayS_modpro,
 	QArrayS_module,
 	QArrayS_prstat,

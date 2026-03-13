@@ -57,6 +57,9 @@
   <msg id="Administrador" code="ADMINISTRADOR57294">
     <ENUS>Administrador</ENUS>
   </msg>
+  <msg id="Stage 3" code="STAGE_320799">
+    <ENUS>Stage 3</ENUS>
+  </msg>
   <msg id="Result" code="RESULT40974">
     <ENUS>Result</ENUS>
   </msg>
@@ -101,6 +104,9 @@
   </msg>
   <msg id="Email" code="EMAIL25170">
     <ENUS>Email</ENUS>
+  </msg>
+  <msg id="Stage 2" code="STAGE_220652">
+    <ENUS>Stage 2</ENUS>
   </msg>
   <msg id="Stage" code="STAGE09691">
     <ENUS>Stage</ENUS>
@@ -273,6 +279,9 @@
   <msg id="Sucesso" code="SUCESSO65230">
     <ENUS>Sucesso</ENUS>
   </msg>
+  <msg id="Stages" code="STAGES13998">
+    <ENUS>Stages</ENUS>
+  </msg>
   <msg id="Sender" code="SENDER07671">
     <ENUS>Sender</ENUS>
   </msg>
@@ -297,6 +306,9 @@
   <msg id="Logbook" code="LOGBOOK00124">
     <ENUS>Logbook</ENUS>
   </msg>
+  <msg id="Pricing Info" code="PRICING_INFO42263">
+    <ENUS>Pricing Info</ENUS>
+  </msg>
   <msg id="Modos de processamento" code="MODOS_DE_PROCESSAMEN07602">
     <ENUS>Modos de processamento</ENUS>
   </msg>
@@ -305,6 +317,9 @@
   </msg>
   <msg id="Bcc" code="BCC22049">
     <ENUS>Bcc</ENUS>
+  </msg>
+  <msg id="Stage 1" code="STAGE_120545">
+    <ENUS>Stage 1</ENUS>
   </msg>
   <msg id="Modules" code="MODULES33542">
     <ENUS>Modules</ENUS>
@@ -317,6 +332,9 @@
   </msg>
   <msg id="Roles" code="ROLES61449">
     <ENUS>Roles</ENUS>
+  </msg>
+  <msg id="PART NAME / STAGE" code="PART_NAME___STAGE64570">
+    <ENUS>PART NAME / STAGE</ENUS>
   </msg>
   <msg id="Duration" code="DURATION40426">
     <ENUS>Duration</ENUS>
@@ -365,6 +383,9 @@
   </msg>
   <msg id="Status" code="STATUS62033">
     <ENUS>Status</ENUS>
+  </msg>
+  <msg id="Click this link to buy the product" code="CLICK_THIS_LINK_TO_B29613">
+    <ENUS>Click this link to buy the product</ENUS>
   </msg>
   <msg id="Result message" code="RESULT_MESSAGE40830">
     <ENUS>Result message</ENUS>

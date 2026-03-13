@@ -60,17 +60,21 @@ namespace CSGenio.business
 			Qfield.MQueue = false;
 			Qfield.CavDesignation = "PART_NAME55942";
 
+            Qfield.NotNull = true;
 			Qfield.Dupmsg = "";
+            Qfield.NotDup = true;
 			info.RegisterFieldDB(Qfield);
 
 			//- - - - - - - - - - - - - - - - - - -
-			Qfield = new Field(info.Alias, "stage", FieldType.TEXT);
+			Qfield = new Field(info.Alias, "stage", FieldType.ARRAY_TEXT);
 			Qfield.FieldDescription = "Stage";
-			Qfield.FieldSize =  10;
+			Qfield.FieldSize =  1;
 			Qfield.MQueue = false;
 			Qfield.CavDesignation = "STAGE09691";
 
 			Qfield.Dupmsg = "";
+            Qfield.ArrayName = "dbo.GetValArrayCenum_stage";
+            Qfield.ArrayClassName = "Enum_stage";
 			info.RegisterFieldDB(Qfield);
 
 			//- - - - - - - - - - - - - - - - - - -
@@ -278,11 +282,11 @@ namespace CSGenio.business
 			set { insertNameValueField(FldPart_name, value); }
 		}
 
-		/// <summary>Field : "Stage" Tipo: "C" Formula:  ""</summary>
+		/// <summary>Field : "Stage" Tipo: "AC" Formula:  ""</summary>
 		public static FieldRef FldStage { get { return m_fldStage; } }
 		private static FieldRef m_fldStage = new FieldRef("upgrade", "stage");
 
-		/// <summary>Field : "Stage" Tipo: "C" Formula:  ""</summary>
+		/// <summary>Field : "Stage" Tipo: "AC" Formula:  ""</summary>
 		public string ValStage
 		{
 			get { return (string)returnValueField(FldStage); }
