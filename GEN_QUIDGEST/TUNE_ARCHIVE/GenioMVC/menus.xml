@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-16"?>
 <ArrayOfMenuEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <MenuEntry TYPE="ITEM" DESC="MY_APPLICATION56216" ID="TA3" IMG="" IMGVUE="" LVL="0" PREVIEW="false" SEPARATES="false" SUMMENU="false" HIDEMENUSUM="false" HASCONDITION="false" ISFORM="false">
-    <MENU TYPE="ITEM" DESC="ADD_MAKES49686" SIGLA="" ID="1" HELPTITLE="" IMG="~/Content/img/m4 sharpened.png?v=10" IMGVUE="m4 sharpened.png?v=10" FNT="" SVG="" LVL="1" PREVIEW="false" SEPARATES="true" SUMMENU="false" HIDEMENUSUM="false" HASCONDITION="false" ISFORM="false" ORDER="1" DEFAULTACTION="">
+    <MENU TYPE="ITEM" DESC="ADD_MAKES49686" SIGLA="" ID="1" HELPTITLE="" IMG="~/Content/img/m4 sharpened.png?v=11" IMGVUE="m4 sharpened.png?v=11" FNT="" SVG="" LVL="1" PREVIEW="false" SEPARATES="true" SUMMENU="false" HIDEMENUSUM="false" HASCONDITION="false" ISFORM="false" ORDER="1" DEFAULTACTION="">
       <ACCESS>1</ACCESS>
     </MENU>
   </MenuEntry>
